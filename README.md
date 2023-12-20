@@ -8,4 +8,7 @@ Antes de nos aprofundarmos no incrível mundo do HuggingFace, vamos decifrar alg
 HUGGINGFACE:
 <img width="963" alt="hf-logo-with-title" src="https://github.com/JoaoSantos6/A.I.---LangChain-HuggingFace-GoogleBooks/assets/78502928/826e41c0-0434-4f65-95af-4342bc03a344">
 
+LLM:
+![llm](https://github.com/JoaoSantos6/A.I.---LangChain-HuggingFace-GoogleBooks/assets/78502928/8cdfc3e2-d2ac-4950-aec8-8ef0b3b26acd)
+
 Vamos simplificar isso um pouco. Imagine que a linguagem é como um vasto oceano, cheio de palavras e significados. O HuggingFace é como um mapa do tesouro para esse oceano. Você pode escolher o tipo de aventura que deseja - criar histórias incríveis, traduzir idiomas como um poliglota instantâneo ou até mesmo ensinar um computador a conversar como um amigo. O LangChain é a sua bússola, guiando-o através das ondas complexas da linguagem. E o LLM? Bem, pense nele como a energia mágica que impulsiona todas essas operações. Em resumo, o HuggingFace é o seu ingresso para explorar os sete mares da linguagem, tornando a IA acessível e empolgante para todos!
